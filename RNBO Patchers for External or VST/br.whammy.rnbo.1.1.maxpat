@@ -2567,7 +2567,7 @@
                                                 134.0,
                                                 87.0,
                                                 1300.0,
-                                                884.0
+                                                900.0
                                             ],
                                             "boxes": [
                                                 {
@@ -2575,9 +2575,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "in 1 @comment \"Left In\"",
                                                         "patching_rect": [
-                                                            29.0,
                                                             20.0,
-                                                            110.0,
+                                                            20.0,
+                                                            144.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 0,
@@ -2595,9 +2595,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "in 2 @comment \"Right In\"",
                                                         "patching_rect": [
-                                                            149.0,
+                                                            313.6666666666667,
                                                             20.0,
-                                                            110.0,
+                                                            152.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 0,
@@ -2615,9 +2615,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "in 3 @comment \"On/Off\"",
                                                         "patching_rect": [
-                                                            269.0,
+                                                            607.3333333333334,
                                                             20.0,
-                                                            110.0,
+                                                            146.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 0,
@@ -2635,9 +2635,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "in 4 @comment \"Pitchshift semitones\"",
                                                         "patching_rect": [
-                                                            389.0,
+                                                            901.0,
                                                             20.0,
-                                                            110.0,
+                                                            217.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 0,
@@ -2654,8 +2654,8 @@
                                                     "box": {
                                                         "maxclass": "codebox",
                                                         "patching_rect": [
-                                                            29.0,
-                                                            80.0,
+                                                            20.0,
+                                                            67.0,
                                                             900.0,
                                                             900.0
                                                         ],
@@ -2678,9 +2678,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "out 1 @comment \"Left to shifter\"",
                                                         "patching_rect": [
-                                                            29.0,
-                                                            1000.0,
-                                                            200.0,
+                                                            20.0,
+                                                            997.0,
+                                                            187.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 1,
@@ -2695,9 +2695,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "out 2 @comment \"Right to shifter\"",
                                                         "patching_rect": [
-                                                            249.0,
-                                                            1000.0,
-                                                            200.0,
+                                                            460.5,
+                                                            997.0,
+                                                            195.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 1,
@@ -2712,9 +2712,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "out 3 @comment \"Ratio\"",
                                                         "patching_rect": [
-                                                            469.0,
-                                                            1000.0,
-                                                            200.0,
+                                                            901.0,
+                                                            997.0,
+                                                            146.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 1,
@@ -9991,7 +9991,7 @@
                                                 134.0,
                                                 87.0,
                                                 1300.0,
-                                                884.0
+                                                900.0
                                             ],
                                             "boxes": [
                                                 {
@@ -9999,9 +9999,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "in 1 @comment \"Shifted L\"",
                                                         "patching_rect": [
-                                                            29.0,
                                                             20.0,
-                                                            110.0,
+                                                            20.0,
+                                                            158.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 0,
@@ -10019,9 +10019,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "in 2 @comment \"Shifted R\"",
                                                         "patching_rect": [
-                                                            149.0,
+                                                            193.0,
                                                             20.0,
-                                                            110.0,
+                                                            160.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 0,
@@ -10039,9 +10039,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "in 3 @comment \"Gated dry L\"",
                                                         "patching_rect": [
-                                                            269.0,
+                                                            368.0,
                                                             20.0,
-                                                            110.0,
+                                                            173.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 0,
@@ -10059,9 +10059,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "in 4 @comment \"Gated dry R\"",
                                                         "patching_rect": [
-                                                            389.0,
+                                                            556.0,
                                                             20.0,
-                                                            110.0,
+                                                            175.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 0,
@@ -10079,9 +10079,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "in 5 @comment \"Input L\"",
                                                         "patching_rect": [
-                                                            509.0,
+                                                            746.0,
                                                             20.0,
-                                                            110.0,
+                                                            147.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 0,
@@ -10099,9 +10099,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "in 6 @comment \"Input R\"",
                                                         "patching_rect": [
-                                                            629.0,
+                                                            908.0,
                                                             20.0,
-                                                            110.0,
+                                                            149.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 0,
@@ -10119,9 +10119,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "in 7 @comment \"On/Off\"",
                                                         "patching_rect": [
-                                                            749.0,
+                                                            1072.0,
                                                             20.0,
-                                                            110.0,
+                                                            146.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 0,
@@ -10139,9 +10139,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "in 8 @comment \"Dry/Wet %\"",
                                                         "patching_rect": [
-                                                            869.0,
-                                                            20.0,
-                                                            110.0,
+                                                            718.0,
+                                                            142.0,
+                                                            168.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 0,
@@ -10159,9 +10159,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "in 9 @comment \"Mix Mode\"",
                                                         "patching_rect": [
-                                                            989.0,
-                                                            20.0,
-                                                            110.0,
+                                                            901.0,
+                                                            142.0,
+                                                            163.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 0,
@@ -10178,8 +10178,8 @@
                                                     "box": {
                                                         "maxclass": "codebox",
                                                         "patching_rect": [
-                                                            29.0,
-                                                            80.0,
+                                                            20.0,
+                                                            204.0,
                                                             900.0,
                                                             900.0
                                                         ],
@@ -10201,9 +10201,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "out 1 @comment \"Left Out\"",
                                                         "patching_rect": [
-                                                            29.0,
-                                                            1000.0,
-                                                            200.0,
+                                                            20.0,
+                                                            1134.0,
+                                                            161.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 1,
@@ -10218,9 +10218,9 @@
                                                         "maxclass": "newobj",
                                                         "text": "out 2 @comment \"Right Out\"",
                                                         "patching_rect": [
-                                                            249.0,
-                                                            1000.0,
-                                                            200.0,
+                                                            901.0,
+                                                            1134.0,
+                                                            169.0,
                                                             22.0
                                                         ],
                                                         "numinlets": 1,
@@ -10253,6 +10253,12 @@
                                                         "destination": [
                                                             "code",
                                                             1
+                                                        ],
+                                                        "midpoints": [
+                                                            202.5,
+                                                            57.0,
+                                                            139.625,
+                                                            57.0
                                                         ]
                                                     }
                                                 },
@@ -10265,6 +10271,12 @@
                                                         "destination": [
                                                             "code",
                                                             2
+                                                        ],
+                                                        "midpoints": [
+                                                            377.5,
+                                                            69.0,
+                                                            249.75,
+                                                            69.0
                                                         ]
                                                     }
                                                 },
@@ -10277,6 +10289,12 @@
                                                         "destination": [
                                                             "code",
                                                             3
+                                                        ],
+                                                        "midpoints": [
+                                                            565.5,
+                                                            81.0,
+                                                            359.875,
+                                                            81.0
                                                         ]
                                                     }
                                                 },
@@ -10289,6 +10307,12 @@
                                                         "destination": [
                                                             "code",
                                                             4
+                                                        ],
+                                                        "midpoints": [
+                                                            755.5,
+                                                            93.0,
+                                                            470.0,
+                                                            93.0
                                                         ]
                                                     }
                                                 },
@@ -10301,6 +10325,12 @@
                                                         "destination": [
                                                             "code",
                                                             5
+                                                        ],
+                                                        "midpoints": [
+                                                            917.5,
+                                                            105.0,
+                                                            580.125,
+                                                            105.0
                                                         ]
                                                     }
                                                 },
@@ -10313,6 +10343,12 @@
                                                         "destination": [
                                                             "code",
                                                             6
+                                                        ],
+                                                        "midpoints": [
+                                                            1081.5,
+                                                            117.0,
+                                                            690.25,
+                                                            117.0
                                                         ]
                                                     }
                                                 },
@@ -10325,6 +10361,12 @@
                                                         "destination": [
                                                             "code",
                                                             7
+                                                        ],
+                                                        "midpoints": [
+                                                            727.5,
+                                                            179.0,
+                                                            800.375,
+                                                            179.0
                                                         ]
                                                     }
                                                 },
