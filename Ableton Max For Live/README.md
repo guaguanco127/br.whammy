@@ -32,7 +32,7 @@ Version 1.1 was updated with Max 9 (the RNBO patch needs RNBO). Version 1.0 was 
 
 A stereo pitch shifter built in gen~, as a Max/MSP abstraction and an Ableton Max for Live device. It transposes up to two octaves up or down. Good for harmonization and microtonal pitch-shifting, and it works at any sample rate.
 
-It shifts with a delay line, not an FFT: four read heads sweep through a short (100 ms) window and cross-fade into each other. There is no FFT window to wait for, so it responds right away, but the cross-fading heads add some artifacts and a slight smear. For a cleaner shift (with 2048 samples of latency) use [br.pitchshift](https://github.com/guaguanco127/br.pitchshift) instead.
+It shifts with a delay line, not an FFT: four read heads sweep through a short (100 ms) window and cross-fade into each other. There is no FFT window to wait for, so it responds right away, but the cross-fading heads add some artifacts and a slight smear. For a cleaner shift (with 1536 samples of latency) use [br.pitchshift](https://github.com/guaguanco127/br.pitchshift) instead.
 
 **On/Off:** Turn the effect on or bypass it. The default is on.
 
